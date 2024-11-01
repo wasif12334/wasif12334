@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif12334" alt="wasif12334" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **CSS**
+- 👯 I’m looking to collaborate as a**Front-End Dev**
 
 - 🤝 I’m looking for help with **Web desigining**
 
