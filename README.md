@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wasifaliraza95@gmail.com**
 
-- ⚡ Fun fact **Sports + Tech 🏀 💻**
+- ⚡ Fun fact **Sports 🏀 + Tech  💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
