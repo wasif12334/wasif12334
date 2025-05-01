@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif12334" alt="wasif12334" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Agentic Model**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Frameworks of agenti Ai (Crewai,langchain)**
 
 - 👯 I’m looking to collaborate on **JS**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **LLM**
 
 - 👨‍💻 All of my projects are available at [https://wasifaliraza.vercel.app/](https://wasifaliraza.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS,JS,C++**
+- 💬 Ask me about **HTML,CSS,JS,C++,python,php,mysql**
 
 - 📫 How to reach me **wasifaliraza95@gmail.com**
 
