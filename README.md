@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **LLM**
 
-- 👨‍💻 All of my projects are available at [https://wasifaliraza.vercel.app/](https://wasifaliraza.vercel.app/)
+- 👨‍💻 All of my projects are available at https://wasifawan-wasif12334s-projects.vercel.app/
 
 - 💬 Ask me about **HTML,CSS,JS,C++,python,php,mysql**
 
