@@ -1,48 +1,31 @@
 <h1 align="center">Hi 👋, I'm Wasif Awan</h1>
-<h3 align="center">Software Engineer | AI Builder | Future Tech Entrepreneur 🚀</h3>
+<h3 align="center">Software Engineering Student | Full-Stack & AI Enthusiast</h3>
 
 <p align="center">
-I don't just write code — I build solutions that solve real-world problems.
+Passionate about building practical software solutions and continuously learning modern technologies.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **AI-powered systems & Agentic Applications**
-- 🌱 Learning **Agentic AI (CrewAI, LangChain) + Advanced Python**
-- 🧠 Strong foundation in **DSA, Web Development & System Thinking**
-- 💼 Running a **Marketing Agency** + Building real-world products
-- 🚀 Working on:
-  - AI Food Discovery Platform 🍽️
-  - Clinic Appointment System 🏥
-  - Ghar Ka Khana Business 🍱
-- 🎯 Goal: Build my own **Software House & AI Solutions Company**
-
----
-
-### 💡 What I Believe In
-
-- Solve **real problems**, not just tutorials  
-- Build → Launch → Learn → Repeat  
-- Combine **Technology + Business + AI**  
-- Stay disciplined (Sports 🏀 + Coding 💻)
+- 🔭 Currently working on **Agentic AI concepts and projects**
+- 🌱 Learning **Python, LangChain, CrewAI, and AI Agent Development**
+- 💻 Strong interest in **Web Development and Backend Systems**
+- 🧠 Improving skills in **Data Structures & Algorithms (DSA)**
+- 🤝 Open to collaboration on **JavaScript and AI-based projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python, PHP, MySQL**
+- ⚡ Fun fact: I enjoy combining **sports 🏀 and coding 💻**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages:  
-  `C++` `JavaScript` `Python` `PHP`  
-
-- 🌐 Web:  
-  `HTML` `CSS` `Tailwind` `Bootstrap`  
-
-- ⚙️ Tools & Tech:  
-  `Git` `Docker` `MySQL` `Figma`  
-
-- 🤖 AI & Learning:  
-  `LangChain` `CrewAI` `APIs` `Automation Systems`
+- **Languages:** C++, Python, JavaScript, PHP  
+- **Frontend:** HTML, CSS, Tailwind, Bootstrap  
+- **Backend:** PHP, MySQL (learning Node.js concepts)  
+- **Tools:** Git, Docker, Figma  
+- **AI/ML:** LangChain, CrewAI (learning phase)
 
 ---
 
@@ -80,13 +63,4 @@ I don't just write code — I build solutions that solve real-world problems.
 
 ### 📫 Contact
 
-📧 **wasifaliraza95@gmail.com**
-
----
-
-### ⚡ Fun Fact
-
-I balance **Basketball 🏀 + Business 💼 + Code 💻**  
-And I'm on a mission to prove that **AI + Creativity = Real Impact**
-
----
+📧 wasifaliraza95@gmail.com
