@@ -1,36 +1,92 @@
-<h1 align="center">Hi 👋, I'm Muhummad Wasif</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Wasif Awan</h1>
+<h3 align="center">Software Engineer | AI Builder | Future Tech Entrepreneur 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif12334" alt="wasif12334" /></a> </p>
-
-- 🔭 I’m currently working on **Agentic Model**
-
-- 🌱 I’m currently learning **Python and Frameworks of agenti Ai (Crewai,langchain)**
-
-- 👯 I’m looking to collaborate on **JS**
-
-- 🤝 I’m looking for help with **LLM**
-
-- 👨‍💻 All of my projects are available at https://wasifawan-wasif12334s-projects.vercel.app/
-
-- 💬 Ask me about **HTML,CSS,JS,C++,python,php,mysql**
-
-- 📫 How to reach me **wasifaliraza95@gmail.com**
-
-- ⚡ Fun fact **Sports 🏀 + Tech  💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wasifawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasifawan" height="30" width="40" /></a>
-<a href="https://fb.com/wasifaliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasifaliraza" height="30" width="40" /></a>
-<a href="https://instagram.com/wasifawan111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasifawan111" height="30" width="40" /></a>
+<p align="center">
+I don't just write code — I build solutions that solve real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif12334&show_icons=true&locale=en&layout=compact" alt="wasif12334" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasif12334&show_icons=true&locale=en" alt="wasif12334" /></p>
+- 🔭 Currently building **AI-powered systems & Agentic Applications**
+- 🌱 Learning **Agentic AI (CrewAI, LangChain) + Advanced Python**
+- 🧠 Strong foundation in **DSA, Web Development & System Thinking**
+- 💼 Running a **Marketing Agency** + Building real-world products
+- 🚀 Working on:
+  - AI Food Discovery Platform 🍽️
+  - Clinic Appointment System 🏥
+  - Ghar Ka Khana Business 🍱
+- 🎯 Goal: Build my own **Software House & AI Solutions Company**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasif12334&" alt="wasif12334" /></p>
+---
+
+### 💡 What I Believe In
+
+- Solve **real problems**, not just tutorials  
+- Build → Launch → Learn → Repeat  
+- Combine **Technology + Business + AI**  
+- Stay disciplined (Sports 🏀 + Coding 💻)
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Languages:  
+  `C++` `JavaScript` `Python` `PHP`  
+
+- 🌐 Web:  
+  `HTML` `CSS` `Tailwind` `Bootstrap`  
+
+- ⚙️ Tools & Tech:  
+  `Git` `Docker` `MySQL` `Figma`  
+
+- 🤖 AI & Learning:  
+  `LangChain` `CrewAI` `APIs` `Automation Systems`
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wasif12334&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasif12334&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif12334&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Portfolio
+
+🔗 https://wasifawan-wasif12334s-projects.vercel.app/
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/wasifawan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://fb.com/wasifaliraza"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
+<a href="https://instagram.com/wasifawan111"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+</p>
+
+---
+
+### 📫 Contact
+
+📧 **wasifaliraza95@gmail.com**
+
+---
+
+### ⚡ Fun Fact
+
+I balance **Basketball 🏀 + Business 💼 + Code 💻**  
+And I'm on a mission to prove that **AI + Creativity = Real Impact**
+
+---
