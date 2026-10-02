@@ -1,144 +1,176 @@
 <h1 align="center">Hi 👋, I'm Wasif Awan</h1>
-<h3 align="center">Software Engineering Student | AI Engineer | Full-Stack Developer</h3>
+<h3 align="center">AI Engineer | Software Engineering Student | Full-Stack Developer</h3>
 
 <p align="center">
-Building AI-powered applications with LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI while continuously exploring modern software engineering practices.
+Passionate about building AI-powered applications using LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and modern software engineering practices to solve real-world problems.
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wasif12334&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasif12334&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasif12334&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🚀 About Me
 
-- 🤖 Currently building **Agentic AI applications and LLM-powered systems**
-- 🔭 Developing **RAG pipelines, AI Assistants, and Intelligent Chatbots**
-- 🌱 Learning **LangGraph, Multi-Agent Systems, Azure AI, and Advanced LLM Engineering**
-- 💻 Experienced in **Full-Stack Web Development** and AI application development
-- 🧠 Strengthening my knowledge of **System Design, DSA, and Backend Engineering**
-- 🚀 Passionate about solving real-world business problems using AI
-- 💬 Ask me about **Python, LangChain, RAG, LLMs, JavaScript, PHP, MySQL, WordPress, and SEO**
-- ⚡ Fun fact: I enjoy building AI products as much as playing basketball 🏀
+* 🎓 BS Software Engineering Student (2023–2027)
+* 🤖 AI Engineer Intern working on Agentic AI systems and intelligent automation
+* 🧠 Building Multi-Agent Applications using LangGraph and LangChain
+* 🔍 Developing Retrieval-Augmented Generation (RAG) systems with ChromaDB and HuggingFace Embeddings
+* ⚡ Experienced in integrating LLMs, Tool Calling, Function Calling, and AI Workflows
+* 🌐 Building Full-Stack Applications using Python, PHP, JavaScript, MySQL, and FastAPI
+* 📈 Exploring Production AI, AI Evaluation, and Scalable AI Architecture
+* 🚀 Interested in AI Engineering, Backend Development, and Intelligent Software Systems
+* 🏀 Outside tech, I enjoy basketball, learning new technologies, and building side projects
+
+---
+
+## 💼 Experience
+
+### AI Engineer Intern
+
+* Working on Agentic AI systems and AI-powered workflows
+* Researching AI frameworks, orchestration tools, and LLM applications
+* Building multi-agent architectures and intelligent automation solutions
+
+### Software Engineering Intern
+
+* Worked on WordPress, WooCommerce, SEO Optimization, and Website Performance
+* Contributed to production websites and client projects
+* Improved user experience, content management, and technical SEO
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- PHP
-- C++
-- SQL
+### Programming Languages
 
-### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- JavaScript
+<p>
+Python • JavaScript • PHP • C++ • SQL
+</p>
 
-### Backend
-- PHP
-- MySQL
-- REST APIs
-- FastAPI (Learning)
+### AI & LLM Engineering
 
-### AI & LLM
-- LangChain
-- LangGraph (Learning)
-- OpenAI API
-- Google Gemini API
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Tool Calling
-- Agentic AI
-- Vector Databases (ChromaDB)
-- HuggingFace Embeddings
+<p>
+LangChain • LangGraph • Agentic AI • RAG • Prompt Engineering • Tool Calling • Function Calling • OpenAI • Gemini • HuggingFace • ChromaDB • Vector Databases
+</p>
 
-### Databases
-- MySQL
-- ChromaDB
+### Backend Development
 
-### Dev Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
-- Figma
+<p>
+FastAPI • REST APIs • MySQL • PHP
+</p>
 
-### Cloud & Deployment
-- Streamlit
-- Vercel
-- GitHub Actions (Learning)
-- Azure AI (Learning)
+### Frontend Development
+
+<p>
+HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
+</p>
+
+### Tools & Platforms
+
+<p>
+Git • GitHub • Docker • VS Code • Postman • Figma • Streamlit • Vercel
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🤖 AI University Assistant (RAG)
-- 📄 AI Document Question Answering System
-- 🧠 LLM Content Generator
-- 🌐 Full-Stack Web Applications
-- 📚 AI Knowledge Assistant
-- 🔍 Retrieval-Augmented Generation Pipeline
+### 🤖 X Account Investigator
+
+Multi-Agent AI system that investigates public X (Twitter) profiles using LangGraph, Wikipedia, and Open-Source Intelligence techniques.
+
+**Tech:** LangGraph, LangChain, Python, Ollama, Qwen, ReportLab
+
+---
+
+### 📚 AI University RAG Assistant
+
+Intelligent document-based question-answering system using Retrieval-Augmented Generation.
+
+**Tech:** LangChain, ChromaDB, HuggingFace Embeddings, Gemini, Streamlit
+
+---
+
+### 🧠 AI Knowledge Assistant
+
+LLM-powered assistant capable of retrieving and generating contextual responses from custom knowledge sources.
+
+**Tech:** Python, RAG, ChromaDB, LLM APIs
+
+---
+
+### 📦 Inventory Management System
+
+Desktop application for managing inventory, stock tracking, and record management.
+
+**Tech:** Python
+
+---
+
+### ☕ Al-Fazal Homeopathic Clinic Management System
+
+Business management solution for handling clinic operations and patient records.
+
+**Tech:** PHP, MySQL, JavaScript
 
 ---
 
 ## 📈 Currently Learning
 
-- Agentic AI
-- LangGraph
-- Multi-Agent Systems
-- Azure OpenAI
-- Azure AI Search
-- Prompt Flow
-- AI Evaluation
-- Production AI Deployment
-- MLOps Fundamentals
+* Advanced Agentic AI Systems
+* LangGraph Workflows
+* Multi-Agent Architectures
+* FastAPI & Backend Engineering
+* Production AI Deployment
+* AI Evaluation & Monitoring
+* MLOps Fundamentals
+* Azure AI Services
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wasif12334&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasif12334&theme=tokyonight" />
-</p>
+### 📌 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasif12334&layout=compact&theme=tokyonight" />
-</p>
+* Open-source AI and Software Engineering projects
+* Agentic AI experimentation and research
+* RAG systems and LLM applications
+* Backend development with Python
+* Continuous learning through project-based development
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 https://wasifawan-wasif12334s-projects.vercel.app/
+🔗 https://wasifawan.vercel.app
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/wasifawan">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+* LinkedIn: https://linkedin.com/in/wasifawan
+* GitHub: https://github.com/wasif12334
+* Instagram: https://instagram.com/wasifawan111
 
-<a href="https://fb.com/wasifaliraza">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
+---
 
-<a href="https://instagram.com/wasifawan111">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
+## 📧 Contact
+
+**Email:** [wasifaliraza95@gmail.com](mailto:wasifaliraza95@gmail.com)
+
+---
+
+<p align="center">
+🚀 Building AI Solutions • Learning Every Day • Creating Impact Through Technology
 </p>
-
----
-
-## 📫 Contact
-
-📧 **wasifaliraza95@gmail.com**
