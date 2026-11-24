@@ -26,3 +26,17 @@ I’m a software engineering student at PAF-IAST (2023–2027). I build multi-ag
 - **Backend** — Python, FastAPI, PHP, REST APIs, MySQL, PostgreSQL
 - **Frontend and CMS** — JavaScript, React, Tailwind CSS, WordPress, WooCommerce
 - **Tools** — Git, Docker, Postman, Streamlit, Vercel
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wasif12334&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Wasif Awan’s GitHub activity"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasif12334&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Top languages in Wasif Awan’s GitHub repositories"
+    height="160"
+  />
+</p>
